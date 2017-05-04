@@ -1,1 +1,8 @@
-# About
+# About Swarm City
+
+
+The Swarm City Token (SWT), an ERC20 token, is exchanged on the Swarm CIty DApp. The app, built on the Ethereum blockchain, is focused on providing a platform for reputation based, peer to peer economies, starting with ridesharing. SWT enables users to take control of their identity and reputation in the context of local economies by providing geolocation based hashtags for users to transact upon, and aims to compete with platforms such as Uber and Airbnb by creating a community run and led alternative, in addition to providing a common currency for the community to transact with. 
+
+The current Swarm City evolved out of the Arcade City project, in order to ensure and protect its existence as a community run and led project. SWT along with other parts of its ecosystem, such as the Boardwalk (selection of hashtags in the local area) and Storefronts (configurable front-ends for the different types of transactions using the Swarm City platform), evolved out of necessity from several communities due to heavy demand for rideshare services, which were unavailable or over restricted. 
+
+The Arcade City crowdsale, ending on November 31, 2016 raised 77,689.45 eth and minted 9,525,397.92198459 ARC tokens. On January 1, 2017, the Arcade City Council made the decision to rebrand as Swarm City in order to distance themselves from the controversy surrounding the Founder of Arcade City, and the Legal Entity "Arcade City Inc", who together held the rights to the name and domains of Arcade City. The Swarm City community launched an ongoing token swap, in which ARC tokens are irreversibly burned in exchange for SWT, to which there is no deadline; the cap on the supply of SWT are based on number of tokens created during the crowdsale, therefore there are only 9,525,397.92198459 possible SWT, and no new tokens will ever be minted.
